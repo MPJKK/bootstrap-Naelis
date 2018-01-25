@@ -1,0 +1,38 @@
+
+
+
+$primary: red;
+$text: white;
+$maintext: black;
+
+.smallmargin {
+  margin: 2%;
+}
+
+.body {
+  background-color: #a6b779;
+  height: 100%;
+}
+
+.nav {
+  background-color: yellowgreen;
+}
+
+.maintext{
+  color: $maintext;
+}
+
+.sidebar-box{
+  background-color: darkgreen;
+  color: $text;
+  display: inline-block;
+  height: 100%;
+}
+
+.footstyle{
+  background-color: yellowgreen;
+}
+
+.bottom-margin{
+  margin-bottom: 2%;
+}

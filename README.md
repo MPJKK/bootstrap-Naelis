@@ -1,4 +1,6 @@
-# Ang4
+# Angular task 4 - Anu Kakko
+
+Kun sanoit, ettei SCSS:ää kirjoiteta paljon, niin en ollut sitten ihan varma mitä saan tehdä. Leiskan korkeudet ja pituudet jäi sitten vähän erilaisiksi, kuin esimerkkikuvassa.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
